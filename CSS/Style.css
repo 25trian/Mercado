@@ -1,0 +1,9 @@
+.dropdown-menu.bg-dark {
+    background-color: #343a40 !important;
+}
+.dropdown-item.text-white {
+    color: white !important;
+}
+.dropdown-item.text-white:hover {
+    background-color: #495057 !important;
+}
